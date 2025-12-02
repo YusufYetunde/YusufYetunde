@@ -21,7 +21,7 @@
 
 ⚡ FunFact: I'm a Robot Freak.
 
-📫 How to reach me: [@yusufyetunde13](https://twitter.com/Yusufyetunde13)
+📫 How to reach me: [@yusufyetunde13@gmail.com](mailto:info@yusufyetunde13@gmail.com)
 
 <!-- About section: END -->
 
