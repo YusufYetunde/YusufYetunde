@@ -13,11 +13,11 @@
 ---
 ✨ I'm a frontend engineer and Quality Assurance Engineer passionate about making the web accessible to everyone and ensuring end product meets the clients need.
 
-🔭 I'm currently transitioning to a software engineer.
+🔭 I'm currently transitioning to a full-time software engineer.
 
 😄 My Pronouns: She/Her.
 
-💬 Ask me about: Reactjs, Nextjs,Typescript, python.
+💬 Ask me about: Reactjs, Nextjs,Typescript, python , Machine learning.
 
 ⚡ FunFact: I'm a Robot Freak.
 
